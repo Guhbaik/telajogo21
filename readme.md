@@ -93,6 +93,4 @@ COLAR O CODIGO DO AQUIVO.CSS:
     background-color: black; /* Define a cor de fundo da div 'jogador' como preto */
 }
 
-```
-
-````
+....
